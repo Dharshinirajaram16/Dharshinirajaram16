@@ -1,6 +1,8 @@
 ## Hi there 👋
 I'm Dharshinirajaram
+
 About Me
+
 As an enthusiastic person, I enjoy working on challenging problems that push me to think differently and come up with innovative approaches. I value collaborative environments where diverse thinking leads to meaningful impact.
 With a strong problem-solving mindset and a hands-on approach, I strive to create solutions that are not only functional but also thoughtful and efficient.
 
