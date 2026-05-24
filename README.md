@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Dharshinirajaram
+I'm Dharshini
 
 About Me
 
